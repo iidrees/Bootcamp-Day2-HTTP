@@ -1,8 +1,8 @@
 {
   "name": "bootcamp_day2_http",
   "version": "1.0.0",
-  "description": "A repo to consume a web API from the command line",
-  "main": "httpApi.js",
+  "description": "A command line application to consume a web API",
+  "main": "httpREST.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
