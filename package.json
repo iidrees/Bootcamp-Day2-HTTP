@@ -1,0 +1,12 @@
+{
+  "name": "bootcamp_day2_http",
+  "version": "1.0.0",
+  "description": "A repo to consume a web API from the command line",
+  "main": "httpApi.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Idrees Ibraheem",
+  "license": "ISC"
+}
